@@ -9,7 +9,7 @@
 
 ***
 
-## Twits
+## #MakeoverMondays projects
 
 <!-- BLOG-POST-LIST:START -->
 - [@IZagumennikova: Another #MakeoverMonday project, last week dataset.](https://twitter.com/IZagumennikova/status/1374291936874528768)
