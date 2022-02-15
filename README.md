@@ -12,5 +12,5 @@
 ## #MakeoverMondays projects
 
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Mon Feb 14 2022](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Tue Feb 15 2022](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
