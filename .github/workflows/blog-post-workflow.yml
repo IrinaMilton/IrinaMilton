@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '30 14 * * *' # Runs 13:40 everyday
+    - cron: '20 17 * * *' # Runs 13:40 everyday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.app/feeds/WHU5hG0BCJFmKt3g.xml"
+          feed_list: "http://fetchrss.com/rss/62bdc9711fa983479f40994362bdca3c749cfc2e9d3d24c3.xml"
